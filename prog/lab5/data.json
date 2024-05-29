@@ -1,0 +1,61 @@
+[
+  {
+    "id": 1,
+    "name": "Petr",
+    "coordinates": {
+      "x": 1,
+      "y": 1.0
+    },
+    "creationDate": "18.05.2024",
+    "salary": 1234.0,
+    "startDate": "2024-05-18T15:30:00+03:00[Europe/Moscow]",
+    "endDate": null,
+    "status": null,
+    "organization": null
+  },
+ {
+    "id": 2,
+    "name": "Petr",
+    "coordinates": {
+      "x": 1,
+      "y": 1.0
+    },
+    "creationDate": "18.05.2024",
+    "salary": 1235.0,
+    "startDate": "2024-05-18T15:30:00+03:00[Europe/Moscow]",
+    "endDate": null,
+    "status": null,
+    "organization": null
+  },
+ {
+    "id": 4,
+    "name": "Petr",
+    "coordinates": {
+      "x": 1,
+      "y": 1.0
+    },
+    "creationDate": "18.05.2024",
+    "salary": 1234.0,
+    "startDate": "2024-05-18T15:30:00+03:00[Europe/Moscow]",
+    "endDate": null,
+    "status": null,
+    "organization": null
+  },
+  {
+    "id": 3,
+    "name": "Lisa",
+    "coordinates": {
+      "x": 2,
+      "y": 2.0
+    },
+    "creationDate": "18.05.2024",
+    "salary": 5678.0,
+    "startDate": "2024-05-18T15:30:00+03:00[Europe/Moscow]",
+    "endDate": null,
+    "status": "PROBATION",
+    "organization": {
+      "fullName": "FFF",
+      "type": "GOVERNMENT"
+    }
+  }
+]

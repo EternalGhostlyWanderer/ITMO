@@ -1,0 +1,5 @@
+execute_script test3.txt
+remove_any_by_status PROBATION
+show
+print_unique_salary
+max_by_salary

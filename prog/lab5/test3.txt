@@ -1,0 +1,12 @@
+add
+Problem
+666
+666
+999
+2006-06-16
+18.05.2024
+REGULAR
+Hell
+GOVERNMENT
+history
+execute_script test3.txt

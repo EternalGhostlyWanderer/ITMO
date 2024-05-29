@@ -1,0 +1,2 @@
+javac -cp lib/gson-2.10.1.jar -d out src/lab5/*.java src/utils/*.java src/exceptions/*.java src/models/*.java src/managers/*.java src/commands/*.java
+java -cp "lib/gson-2.10.1.jar;out" lab5.Main data.json
